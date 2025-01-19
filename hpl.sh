@@ -17,7 +17,7 @@ cp /work1/koying0523/share/2025-Winter-Camp/hpl-2.3.tar.gz .
 tar xvf hpl-2.3.tar.gz && cd hpl-2.3/setup
 sh make_generic
 cd ../
-cp ~/HPC-Winter-Camp-HPL/Make.linux .
+cp ~/HPL/Make.linux .
 
 make arch=linux
 
