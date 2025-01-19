@@ -8,7 +8,8 @@
 
 ## Run
 1. Modify `~/HPL/hpl-2.3/bin/linux/HPL.dat`
-2. Run: `sbatch ./run.sh`
+2. `cd ~/HPL/hpl-2.3/bin/linux`
+3. Run: `sbatch ~/HPL/run.sh`
 
 ## Submit
 1. Create a new directory for the judge: `mkdir -p ~/.hpc_camp`
