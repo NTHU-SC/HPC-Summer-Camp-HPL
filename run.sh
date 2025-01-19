@@ -9,4 +9,5 @@
 
 cd $HOME/HPL/hpl-2.3/bin/linux
 
-mpirun -np 112 ./xhpl
+module load gcc/11.2.0 openmpi
+mpirun -np 28 ./xhpl

@@ -12,7 +12,7 @@ cd $HOME
 module load gcc/11.2.0
 module load openmpi/5.0.2
 
-cp /home/koying0523/share/OpenBLAS-0.3.29.tar.gz $HOME
+cp /work1/koying0523/share/2025-Winter-Camp/OpenBLAS-0.3.29.tar.gz $HOME
 tar xf OpenBLAS-0.3.29.tar.gz
 cd OpenBLAS-0.3.29 && rm -fr build
 mkdir -p build && cd build
