@@ -13,5 +13,5 @@
 
 ## Submit
 1. Create a new directory for the judge: `mkdir -p ~/.hpc_camp`
-2. If you are the first time to submit, run: `echo "\$PATH=\$PATH:/work1/koying0523/bin/" >> ~/.bashrc`
+2. If you are the first time to submit, run: `echo "\$PATH=\$PATH:/project/ACD114003/bin/" >> ~/.bashrc`
 3. Submit: `hpl-judge`
