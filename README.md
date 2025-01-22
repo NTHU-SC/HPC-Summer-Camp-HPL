@@ -3,8 +3,9 @@
 ## Installation
 1. Change directory to home: `cd ~`
 2. Clone the repository: `git clone https://github.com/NTHU-SC/HPC-Winter-Camp-HPL.git HPL`
-3. Install openblas: `sbatch ./openblas.sh`
-4. Build HPL: `sbatch ./hpl.sh`
+3. `cd HPL`
+4. Install openblas: `sbatch ./openblas.sh`
+5. Build HPL: `sbatch ./hpl.sh`
 
 ## Run
 1. Modify `~/HPL/hpl-2.3/bin/linux/HPL.dat`
