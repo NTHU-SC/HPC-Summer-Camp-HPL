@@ -3,7 +3,7 @@
 #SBATCH --job-name=run_hpl
 #SBATCH --nodes=1
 #SBATCH --time=00:30:00
-#SBATCH --partition=hpcxai1
+#SBATCH --partition=ct112
 #SBATCH --account=ACD114003
 #SBATCH --ntasks=112
 
