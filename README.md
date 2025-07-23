@@ -1,4 +1,4 @@
-# HPC-Winter-Camp-HPL
+# HPC-Summer-Camp-HPL
 
 ## Installation
 1. Change directory to home: `cd ~`
