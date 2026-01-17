@@ -4,7 +4,7 @@
 #SBATCH --nodes=1
 #SBATCH --time=00:30:00
 #SBATCH --partition=ct112
-#SBATCH --account=ACD114003
+#SBATCH --account=GOV115003
 
 date
 cd $HOME

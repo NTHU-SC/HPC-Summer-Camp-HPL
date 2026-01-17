@@ -4,7 +4,7 @@
 #SBATCH --nodes=1
 #SBATCH --time=00:30:00
 #SBATCH --partition=ct112
-#SBATCH --account=ACD114003
+#SBATCH --account=GOV115003
 #SBATCH --ntasks=112
 
 cd $HOME/HPL/hpl-2.3/bin/linux
